@@ -3,6 +3,9 @@ Google Analytics Tracking Code For Mobile Written by Ruby
 
 Google Analyticsの携帯用トラッキングコードをRubyで書きました。
 
+ライセンスなお話
+http://www.google.com/support/forum/p/webmasters/thread?tid=1fbf97b9f5f82fc0&hl=ja
+
 Version
 -------
 
